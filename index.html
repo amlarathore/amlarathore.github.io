@@ -92,7 +92,7 @@ layout: default
         </div>
         <div class="col-md-4">
             {% if site.author.stackoverflow or site.author.programmingSkills %}
-                <h3 class="title with-icon"><span class="fa fa-thumbs-up"></span>Skills</h3>
+                <h3 class="title with-icon"><span class="fa fa-thumbs-up cat-title"></span>Skills</h3>
                 {% if site.author.stackoverflow %}
                 <div class="grid-block">
                   <p><a href="//stackoverflow.com/users/{{ site.author.stackoverflow }}"><img src="//stackoverflow.com/users/flair/{{ site.author.stackoverflow }}.png"></a></p>
@@ -245,6 +245,21 @@ layout: default
                     {% if framework.name %}
                     <li>
                         <i class="fa fa-check"></i> <span class="badge badge-green badge-right-float"></span>{{ framework.name }}
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+            {% if site.author.databases %}
+            <div class="deviter"></div>
+            <h3 class="title with-icon"><span class="fa fa-certificate cat-title"></span>Certifications</h3>
+            <div class="grid-block">
+                <ul class="list-unstyled list-strip">
+                    {% for database in site.author.databases %}
+                    {% if database.name %}
+                    <li>
+                        <i class="fa fa-check"></i> <span class="badge badge-green badge-right-float"></span>{{ database.name }}
                     </li>
                     {% endif %}
                     {% endfor %}

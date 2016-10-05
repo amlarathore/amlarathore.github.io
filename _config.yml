@@ -101,8 +101,17 @@ author:
       name: Data Analysis
       percentage: 100%
     - skill4:
+      name: Social Media Planning
+      percentage: 80%
+    - skill4:
       name: Social Media Buying
       percentage: 80%
     - skill5:
       name: Campaign Setups
       percentage: 100%
+    - skill5:
+      name: Google Adwords
+      percentage: 100%
+  databases:
+   - database1:
+     name: Google Adwords
