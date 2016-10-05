@@ -82,7 +82,7 @@ author:
       major: Engineering
       started: 2004
       duration: (2004 - 2008)
-      description: Studied electricals and electronics engineering. <br>
+      description: Studied electricals and electronics engineering.     <br>
   frameworks:
     - framework1:
       name: Team Management
@@ -116,6 +116,6 @@ author:
       percentage: 100%
   databases:
    - database1:
-     name: Google AdWords Fundamentals <a href="https://www.google.com/partners/#i_profile;idtf=115139821576005682181;">URL</a>
+     name: Google AdWords Fundamentals
    - database1:
-     name: Google Video Advertising <a href="https://www.google.com/partners/#i_profile;idtf=115139821576005682181;">URL</a>
+     name: Google Video Advertising
