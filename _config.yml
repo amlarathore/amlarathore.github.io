@@ -1,7 +1,7 @@
 # Site settings
 title: Amla Rathore's CV
 description: Amla Rathore's CV
-favicon: /assets/img/avatar.jpeg
+favicon: /assets/img/avatar.jpg
 baseurl: https://amlarathore.github.io
 url: https://amlarathore.github.io
 rss_url: /pages/atom.xml
