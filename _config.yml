@@ -76,7 +76,7 @@ author:
                    Consistently monitor domain names as per customer feedback and satisfaction.<br>
   educationHistory:
     - education1:
-      organization: RGPV
+      organization: Medicaps Institute of Science and Management
       location: Indore, India
       degree: Bachelor
       major: Engineering
@@ -90,6 +90,8 @@ author:
       name: Lead Generation
     - framework2:
       name: New Hire Training
+    - framework2:
+      name: Market Research
   programmingSkills:
     - skill1:
       name: Website Monetization
@@ -114,4 +116,6 @@ author:
       percentage: 100%
   databases:
    - database1:
-     name: Google Adwords
+     name: Google AdWords Fundamentals <a href="https://www.google.com/partners/#i_profile;idtf=115139821576005682181;">URL</a>
+   - database1:
+     name: Google Video Advertising <a href="https://www.google.com/partners/#i_profile;idtf=115139821576005682181;">URL</a>
