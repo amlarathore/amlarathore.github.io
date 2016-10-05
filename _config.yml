@@ -20,6 +20,7 @@ author:
   email: amla.rathore@yahoo.com
   link:
   weibo:
+  github:
   linkedin: amlarathore
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
@@ -31,9 +32,9 @@ author:
       started: 2016
       duration: (July 2016 - Present)
       description: Responsible for planning and buying of digital media and activation of digital campaigns on different platforms. <br>
-                    Timely optimization of campaigns to improve ROI and help client achieve defined objectives. <br>
-                    Generating insightful reports and making recommendation based on past campaigns performance. <br>
-                    Working closely with the in-house content team and liaising with clients to get approval of campaigns and content, understanding their changing needs and adapting our approach to social media management for them accordingly.
+                   Timely optimization of campaigns to improve ROI and help client achieve defined objectives. <br>
+                   Generating insightful reports and making recommendation based on past campaigns performance. <br>
+                   Working closely with the in-house content team and liaising with clients to get approval of campaigns and content, understanding their changing needs and adapting our approach to social media management for them accordingly.
 
     - work2:
       company: Media.net
@@ -41,15 +42,15 @@ author:
       title: Associate Manager
       started: 2015
       duration: (Jan 2015 - May 2016)
-      description: <em>Managing yearly revenue of around $ 20M. Responsible for campaign management, dataanalysis and account optimization for big publishers.</em> <br>
-                  Design, build and managed team of 20 research analysts and lead the monetizationefforts for both text and display ads. <br>
-                  Strategizing optimization process to help team achieve revenue targets and maximize ROI for publishers. <br> 
-                  Responsible for gathering intelligence on current trends and issues within various verticals and disseminating these insights to the team. <br>
-                  Proactively work with Business Development team to find digital channels that will constantly improve upon marketing ROI and drive product and services conversion <br>
+      description: Managing yearly revenue of around $ 20M. Responsible for campaign management, dataanalysis and account optimization for big publishers. <br>
+                   Design, build and managed team of 20 research analysts and lead the monetizationefforts for both text and display ads. <br>
+                   Strategizing optimization process to help team achieve revenue targets and maximize ROI for publishers. <br>
+                   Responsible for gathering intelligence on current trends and issues within various verticals and disseminating these insights to the team. <br>
+                   Proactively work with Business Development team to find digital channels that will constantly improve upon marketing ROI and drive product and services conversion <br>
     - work3:
       company: Media.net
       location: Mumbai, India
-      title: Module Lead 
+      title: Module Lead
       started: 2012
       duration: (2012 - 2015)
       description: Acted as a bridge between sales and account management team to achieve target. <br>
@@ -64,15 +65,15 @@ author:
       description: Mentoring the new employees in the team and assisting them with work related queries. <br>
                    Optimizing Domain Names and investigating web sites and conducting research & analysis for identifying concepts of domain names. <br>
                    Monitoring and enforcement of acceptable usage policies in cases of system abuse, illegal usage, misrepresentation etc.<br>
-   - work5:
-        company: Media.net
-        location: Mumbai, India
-        title: Research Analyst
-        started: 2007
-        duration: (2007 - 2011)
-        description: Optimizing Domain Names and investigating web sites and conducting research & analysis for identifying concepts of domain names. <br>
-                     Checking content, quality and accuracy of each concept. <br>
-                     Consistently monitor domain names as per customer feedback and satisfaction.<br>
+    - work5:
+      company: Media.net
+      location: Mumbai, India
+      title: Research Analyst
+      started: 2007
+      duration: (2007 - 2011)
+      description: Optimizing Domain Names and investigating web sites and conducting research & analysis for identifying concepts of domain names. <br>
+                   Checking content, quality and accuracy of each concept. <br>
+                   Consistently monitor domain names as per customer feedback and satisfaction.<br>
   educationHistory:
     - education1:
       organization: RGPV
