@@ -25,7 +25,7 @@ author:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
   workHistory:
-  - work1:
+    - work1:
         company: TravelClick
         location: Singapore, Singapore
         title: Enterprise Media Analyst
