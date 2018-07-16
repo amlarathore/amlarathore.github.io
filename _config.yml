@@ -25,18 +25,30 @@ author:
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
   workHistory:
-    - work1:
+  - work1:
+        company: TravelClick
+        location: Singapore, Singapore
+        title: Enterprise Media Analyst
+        started: 2016
+        duration: (Jan 2017 - Present)
+        description: Develop and manage digital marketing campaigns for the clients with 80-100K monthly spends to meet the client’s KPIs like ROI goals, increase brand awareness and drive website traffic. <br>
+                     Create strategic digital media plans and work with cross-functional teams and digital media partners (AdWords, Facebook, DCM/DBM, DoubleClick Search, etc.) to execute campaigns across SEM, affiliates, social media, email and display channels. <br>
+                     Work with publishers, technology partners, creative teams, clients and other relevant parties to implement optimizations and monitor their effectiveness. <br>
+                     A/B testing, analyse data, develop optimizations and deliver reports on agreed schedule for each live campaign detailing performance, highlighting issues and providing optimization recommendations. <br>
+                     Works closely with platform providers as well as booking/reservation engines for technical support and troubleshooting on campaigns.
+
+    - work2:
       company: IH Digital
       location: Singapore, Singapore
       title: Media Manager
       started: 2016
-      duration: (July 2016 - Present)
+      duration: (July 2016 - Nov 2016)
       description: Responsible for planning and buying of digital media and activation of digital campaigns on different platforms. <br>
                    Timely optimization of campaigns to improve ROI and help client achieve defined objectives. <br>
                    Generating insightful reports and making recommendation based on past campaigns performance. <br>
                    Working closely with the in-house content team and liaising with clients to get approval of campaigns and content, understanding their changing needs and adapting our approach to social media management for them accordingly.
 
-    - work2:
+    - work3:
       company: Media.net
       location: Mumbai, India
       title: Associate Manager
@@ -47,7 +59,7 @@ author:
                    Strategizing optimization process to help team achieve revenue targets and maximize ROI for publishers. <br>
                    Responsible for gathering intelligence on current trends and issues within various verticals and disseminating these insights to the team. <br>
                    Proactively work with Business Development team to find digital channels that will constantly improve upon marketing ROI and drive product and services conversion <br>
-    - work3:
+    - work4:
       company: Media.net
       location: Mumbai, India
       title: Module Lead
@@ -56,7 +68,7 @@ author:
       description: Acted as a bridge between sales and account management team to achieve target. <br>
                    Liaising with the Business Development Specialists to facilitate maximization of revenue and to ensure smooth functioning of the department. <br>
 
-    - work4:
+    - work5:
       company: Media.net
       location: Mumbai, India
       title: Senior Research Analyst
@@ -65,7 +77,7 @@ author:
       description: Mentoring the new employees in the team and assisting them with work related queries. <br>
                    Optimizing Domain Names and investigating web sites and conducting research & analysis for identifying concepts of domain names. <br>
                    Monitoring and enforcement of acceptable usage policies in cases of system abuse, illegal usage, misrepresentation etc.<br>
-    - work5:
+    - work6:
       company: Media.net
       location: Mumbai, India
       title: Research Analyst
